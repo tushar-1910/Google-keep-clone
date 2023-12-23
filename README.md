@@ -9,12 +9,11 @@ This is a clone of Google Keep created using **React** and **Material UI**. It a
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Preview](#preview)
-- [PWA](#pwa)
 - [Contributing](#contributing)
 - [Demo](#demo)
-- [Author](#author)
 
 ## Installation
+
 To run the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/yourusername/google-keep-clone.git`
@@ -34,6 +33,7 @@ To start the app, run `npm start`. This will start the app on [http://localhost:
 - Automatic deletion: Deleted notes are automatically deleted after 7 days.
 
 ## Dependencies
+
 ```
 npm i @emotion/react @emotion/styled  @mui/material
 npm i @mui/icons-material
@@ -44,28 +44,22 @@ npm i @hello-pangea/dnd
 ```
 
 ## Preview
-<p>
-  <img src="https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/Preview/Preview-1.png" width="400">
-  <img src="https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/Preview/Preview-2.png" width="400">
-  <img src="https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/Preview/Preview-3.png" width="400">
-  <img src="https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/Preview/Preview-4.png" width="400">
-</p>
 
-## PWA
-![image](https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/PWA.png)
+<p>
+  <img src="https://github.com/tushar-1910/Google-Keep-Clone/blob/master/Preview/Preview-1.png" width="400">
+  <img src="https://github.com/tushar-1910/Google-Keep-Clone/blob/master/Preview/Preview-2.png" width="400">
+  <img src="https://github.com/tushar-1910/Google-Keep-Clone/blob/master/Preview/Preview-3.png" width="400">
+  <img src="https://github.com/tushar-1910/Google-Keep-Clone/blob/master/Preview/Preview-4.png" width="400">
+</p>
 
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
 
 ## Demo
+
 You can see a live demo of the project
-```
-https://keepitnotes.vercel.app/
-```
 
-## Author
-- LinkedIn - [Bhavya Khurana](https://www.linkedin.com/in/bhavyakhurana24/)
-- Frontend Mentor - [@TheNewC0der-24](https://www.frontendmentor.io/profile/TheNewC0der-24)
-- Twitter - [@Bhavya06001699](https://twitter.com/Bhavya06001699)
-
+```
+https://google-keep-clone-tushar.vercel.app/
+```
